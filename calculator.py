@@ -200,7 +200,7 @@ class Ui_MainWindow(object):
         self.btn_0.setText(_translate("MainWindow", "0"))
         self.btn_1.setText(_translate("MainWindow", "1"))
         self.btn_8.setText(_translate("MainWindow", "8"))
-        self.btn_dot.setText(_translate("MainWindow", ","))
+        self.btn_dot.setText(_translate("MainWindow", "."))
         self.btn_2.setText(_translate("MainWindow", "2"))
         self.btn_5.setText(_translate("MainWindow", "5"))
         self.btn_9.setText(_translate("MainWindow", "9"))
